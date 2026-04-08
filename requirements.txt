@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+accelerate
+tqdm
+numpy
+huggingface-hub
